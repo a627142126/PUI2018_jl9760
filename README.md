@@ -4,3 +4,5 @@ Then I used *cd* command to to get back into the folder I just created.
 Then I used *pwd* command.
 
 ![Alt text](ScreenShot2.png)
+Then I used nano .bash_profile to save an enviroment variable permanently.
+![Alt text](ScreenShot1.png)
