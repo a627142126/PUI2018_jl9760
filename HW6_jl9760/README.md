@@ -13,3 +13,10 @@ Logisitic Regression	| 1, community size | Categorical | 1, not critical/critica
   |||||||||
 
 ![main plot](journal.pone.0091510.g004.png)
+
+| **Statistical Analyses**|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Path analysis	| 10, stem diameter, total leaf area per plant, root biomass, stem dry biomass, leaf dry biomass, total dry biomass, root length, root mean diameter for second order branches, fine roots length, medium roots length| continuous | 1, root volume | continuous | 1, different imposed water regimes  | continuous (could also be categorical) | 	What are the direct and indirect effects of those morphological characteristics on root volume. | Morphological alterations play an important role in tolerance of cacao progenies to water stress and that at least one morphological character has potential for direct or indirect selection of drought tolerance. | 0.05 | [Path analysis of phenotypic traits in young cacao plants under drought conditions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191847#abstract0) |
+  |||||||||
+  
+![main plot](pathanalysis.png)
