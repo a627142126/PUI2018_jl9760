@@ -9,7 +9,7 @@ ANOVA	| 8, Height; Weight; Relative Age; Sprint; Agility; Dribbling; Ball Contro
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-Logisitic Regression	| 1, community size | Categorical | 1, not critical/critical scalar stress| nominal | 0 | N/A | 	Whether there is a significant relationship between the absence/presence of critical scalar stress and community size | There is no significant relationship between the absence/presence of critical scalar stress and community size | 0.05 | [Modeling Group Size and Scalar Stress by Logistic Regression from an Archaeological Perspective](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510) |
+Logisitic Regression	| 1, community size | Continuous | 1, not critical/critical scalar stress| nominal | 0 | N/A | 	Whether there is a significant relationship between the absence/presence of critical scalar stress and community size | There is no significant relationship between the absence/presence of critical scalar stress and community size | 0.05 | [Modeling Group Size and Scalar Stress by Logistic Regression from an Archaeological Perspective](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510) |
   |||||||||
 
 ![main plot](journal.pone.0091510.g004.png)
