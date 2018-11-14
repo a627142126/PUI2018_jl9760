@@ -5,3 +5,4 @@ ESTHETIC: The plot's esthetic is functional, it has kind of a comic book vibe wh
 HONESTY: The plot is honestly reproducing the data.
 
 All in all, Muci did a really good job on the visualization. What I would change is the scale of the plot. Since all the circles are gathered in the middle of the plot, I would probably zoom in that area so that we can see the information more clear.
+![Alt text](review2.png)
