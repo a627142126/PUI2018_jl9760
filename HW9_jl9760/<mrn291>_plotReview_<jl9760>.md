@@ -10,3 +10,4 @@ HONESTY: The plot is honestly reproducing the data.
 
 All in all, Martha did a really good job on the visualization. What I would add is the label of the y-axis.
 I would probably also make the scale of the y-axis smaller so that we can see the quantity of each category more clear. 
+![Alt text](review1.png)
