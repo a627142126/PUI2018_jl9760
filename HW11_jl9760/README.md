@@ -5,3 +5,4 @@
 ## HW2
 
 ### I improved my plot from HW8 according to Ewelina's review.
+![Alt text](screenshot.png)
